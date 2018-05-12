@@ -1,0 +1,42 @@
+_repo: The-Reluctant-Weapon_31995
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emsh
+    - Emshwiller, Edmund A.
+    - Willer
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 31995-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Myers, Howard L.
+    alias: Foray, Verge
+    birthdate: 1930
+    deathdate: 1971
+    gutenberg_agent_id: '35606'
+    url: http://www.gutenberg.org/2009/agents/35606
+description: ''
+gutenberg_issued: '2010-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: The Reluctant Weapon
+url: http://www.gutenberg.org/ebooks/31995
